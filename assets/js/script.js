@@ -1,6 +1,6 @@
-/* Author: 
 
-*/
+console.log("this is file from feature-js");
+
 
 
 
